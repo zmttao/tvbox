@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.com/zmttao/tvbox/blob/main/pg.jar",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
 	  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites":[
 		{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 1,"api": "https://api.douban.com/v2/movie/top250apikey=0b2bdeda43b5688921839c8ecb20399b", "searchable": 0,"quickSearch": 0,"filterable": 1},
