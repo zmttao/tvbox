@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"https://github.com/zmttao/tvbox/blob/main/pg.jar",
 	"sites":[
 		{
 			"key": "酷狗",
